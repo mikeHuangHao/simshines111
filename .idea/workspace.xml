@@ -2,86 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dcae328-c6b0-4ed0-a865-79a875f33b75" name="Default" comment="初始化">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/message-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/user-service/src/main/resources/application-druid.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/user-service/src/main/resources/application.yml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../simshines/user-service/src/main/resources/application.properties" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service-api/message-service-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service-api/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/src/main/java/com/simshine/MessageServiceApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../simshines/message-service/src/test/java/com/simshine/MessageServiceApplicationTests.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simshines/message-service/message-service.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/misc.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/modules.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../simshines/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/user-service/pom.xml" afterPath="$PROJECT_DIR$/../simshines/user-service/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simshines/pom.xml" afterPath="$PROJECT_DIR$/../simshines/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../simshines/out/" />
     <ignored path="$PROJECT_DIR$/../simshines/target/" />
     <ignored path="$PROJECT_DIR$/../simshines/common/target/" />
     <ignored path="$PROJECT_DIR$/../simshines/user-service/target/" />
     <ignored path="$PROJECT_DIR$/../simshines/user-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/../simshines/message-service/target/" />
+    <ignored path="$PROJECT_DIR$/../simshines/message-service-api/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,11 +78,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../simshines/user-service/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simshines/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6218">
+              <caret line="572" column="10" lean-forward="false" selection-start-line="572" selection-start-column="10" selection-end-line="572" selection-end-column="10" />
+              <folding>
+                <marker date="1568021771245" expanded="true" signature="35428:35470" ph="..." />
+                <marker date="1568021771245" expanded="true" signature="35428:35488" ph="..." />
+                <marker date="1568021771245" expanded="true" signature="35428:35501" ph="..." />
+                <marker date="1568021771245" expanded="true" signature="35428:35516" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simshines/message-service-api/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../simshines/message-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,6 +140,8 @@
         <option value="$PROJECT_DIR$/../simshines/user-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/../simshines/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/../simshines/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../simshines/message-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../simshines/message-service/pom.xml" />
       </list>
     </option>
   </component>
@@ -276,6 +260,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.UserServiceApplication">
+    <configuration name="MessageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.simshine.MessageServiceApplication" />
+      <module name="message-service" />
+      <envs />
+    </configuration>
     <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.simshine.UserServiceApplication" />
@@ -363,6 +353,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.UserServiceApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.MessageServiceApplication" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -377,7 +371,7 @@
       <workItem from="1568016098491" duration="1948000" />
       <workItem from="1568019217821" duration="834000" />
       <workItem from="1568020062045" duration="66000" />
-      <workItem from="1568020134968" duration="1032000" />
+      <workItem from="1568020134968" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1568017024211</created>
@@ -393,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568020471143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初始化">
+      <created>1568021232521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568021232521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3880000" />
+    <option name="totallyTimeSpent" value="4513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -568,17 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../simshines/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="520" column="10" lean-forward="false" selection-start-line="520" selection-start-column="10" selection-end-line="520" selection-end-column="10" />
-          <folding>
-            <element signature="e#6995#6999#0" expanded="true" />
-            <element signature="e#7005#7009#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../simshines/user-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -587,10 +577,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../simshines/message-service/message-service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../simshines/user-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simshines/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6218">
+          <caret line="572" column="10" lean-forward="false" selection-start-line="572" selection-start-column="10" selection-end-line="572" selection-end-column="10" />
+          <folding>
+            <marker date="1568021771245" expanded="true" signature="35428:35470" ph="..." />
+            <marker date="1568021771245" expanded="true" signature="35428:35488" ph="..." />
+            <marker date="1568021771245" expanded="true" signature="35428:35501" ph="..." />
+            <marker date="1568021771245" expanded="true" signature="35428:35516" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simshines/message-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simshines/message-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>

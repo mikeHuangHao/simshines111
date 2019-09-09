@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/../simshines/pom.xml" />
         <option value="$PROJECT_DIR$/../simshines/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../simshines/message-service/pom.xml" />
       </list>
     </option>
   </component>

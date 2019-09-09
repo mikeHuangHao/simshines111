@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
+        <module name="message-service" />
+        <module name="message-service-api" />
         <module name="user-service" />
         <module name="user-service-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common" target="1.5" />
+      <module name="message-service" target="1.8" />
+      <module name="message-service-api" target="1.5" />
       <module name="simshines" target="1.5" />
       <module name="user-service" target="1.8" />
       <module name="user-service-api" target="1.5" />

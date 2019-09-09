@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../simshines/common/common.iml" filepath="$PROJECT_DIR$/../simshines/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../simshines/message-service/message-service.iml" filepath="$PROJECT_DIR$/../simshines/message-service/message-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simshines/message-service-api/message-service-api.iml" filepath="$PROJECT_DIR$/../simshines/message-service-api/message-service-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../simshines/simshines.iml" filepath="$PROJECT_DIR$/../simshines/simshines.iml" />
       <module fileurl="file://$PROJECT_DIR$/../simshines/user-service/user-service.iml" filepath="$PROJECT_DIR$/../simshines/user-service/user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../simshines/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/../simshines/user-service-api/user-service-api.iml" />
