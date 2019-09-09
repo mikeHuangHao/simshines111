@@ -34,11 +34,11 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="120" column="25" lean-forward="true" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+            <state relative-caret-position="-1431">
+              <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
               <folding>
-                <element signature="e#22636#22640#0" expanded="true" />
-                <element signature="e#22646#22650#0" expanded="true" />
+                <element signature="e#7406#7410#0" expanded="true" />
+                <element signature="e#7416#7420#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,6 +210,11 @@
               <item name="simshines" type="b2602c69:ProjectViewProjectNode" />
               <item name="simshines" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="simshines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simshines" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -340,7 +345,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568016095256</updated>
       <workItem from="1568016098491" duration="852000" />
-      <workItem from="1568017274481" duration="3118000" />
+      <workItem from="1568017274481" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1568018471825</created>
@@ -349,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568018471825</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="不管">
+      <created>1568021473854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568021473854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3970000" />
+    <option name="totallyTimeSpent" value="4032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -514,11 +526,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="120" column="25" lean-forward="true" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
+        <state relative-caret-position="-1431">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
           <folding>
-            <element signature="e#22636#22640#0" expanded="true" />
-            <element signature="e#22646#22650#0" expanded="true" />
+            <element signature="e#7406#7410#0" expanded="true" />
+            <element signature="e#7416#7420#0" expanded="true" />
           </folding>
         </state>
       </provider>
