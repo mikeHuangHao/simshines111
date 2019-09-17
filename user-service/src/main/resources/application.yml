@@ -1,4 +1,14 @@
 spring:
   application:
     name: user
+  profiles:
+    active: druid
 
+#配置mybatis-plus
+mybatis-plus:
+  type-aliases-package: com.simshine.mode
+  mapper-locations: classpath:mapping/*.xml
+  configuration:
+        log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+server:
+  port: 8091

@@ -16,6 +16,12 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<!-- Apache HttpClient -->
+		<httpclient>4.5.5</httpclient>
+		<!-- Apache Commons系列公共库 -->
+		<commons-lang3>3.7</commons-lang3>
+		<commons-io>2.6</commons-io>
+		<commons-codec>1.11</commons-codec>
 	</properties>
 
 	<dependencies>
@@ -29,6 +35,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -41,10 +48,25 @@
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
 
+		<!-- druid数据库连接池 -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
-			<artifactId>druid-spring-boot-starter</artifactId>
-			<version>1.1.10</version>
+			<artifactId>druid</artifactId>
+			<version>1.0.26</version>
+		</dependency>
+
+		<!--mybatisplus-->
+		<dependency>
+			<groupId>com.baomidou</groupId>
+			<artifactId>mybatis-plus-boot-starter</artifactId>
+			<version>3.1.1</version>
+		</dependency>
+
+		<!--lombok-->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot-starter -->
@@ -52,6 +74,44 @@
 			<groupId>org.mybatis.spring.boot</groupId>
 			<artifactId>mybatis-spring-boot-starter</artifactId>
 			<version>2.1.0</version>
+		</dependency>
+
+		<!-- jjwt -->
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+
+		<!--hutool-->
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-all</artifactId>
+			<version>4.6.4</version>
+		</dependency>
+
+		<!-- Apache HttpClient -->
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>${httpclient}</version>
+		</dependency>
+
+		<!-- Commons -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>${commons-lang3}</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>${commons-io}</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>${commons-codec}</version>
 		</dependency>
 
 	</dependencies>
