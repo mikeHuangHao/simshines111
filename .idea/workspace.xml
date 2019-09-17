@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dcae328-c6b0-4ed0-a865-79a875f33b75" name="Default" comment="">
+    <list default="true" id="4dcae328-c6b0-4ed0-a865-79a875f33b75" name="Default" comment="Merge branch 'master' of https://github.com/javabo1/simshines&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -354,18 +354,11 @@
       <option name="project" value="LOCAL" />
       <updated>1568021655662</updated>
     </task>
-    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/javabo1/simshines&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1568686283112</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1568686283112</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27224000" />
+    <option name="totallyTimeSpent" value="27207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
