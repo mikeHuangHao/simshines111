@@ -1,8 +1,10 @@
 package com.simshine.controller;
 
+import cn.hutool.core.util.IdUtil;
 import com.simshine.common.Constants;
 import com.simshine.mode.UserModel;
 import com.simshine.service.UserService;
+import com.simshine.util.RedisUtils;
 import com.simshine.util.result.CodeMsg;
 import com.simshine.util.result.ResponseUtil;
 import com.simshine.util.result.Result;
@@ -39,10 +41,18 @@ public class UserController {
     @Autowired
     private UserService userService;
 
+    @Autowired
+    private RedisUtils redis;
+
+    /**
+     * 12小时后过期
+     */
+    private final static long   EXPIRE        = 12 * 60 * 60;
+
     /**
      * 登录验证
-     * @author zifangsky
-     * @date 2018/8/3 11:13
+     * @author hh
+     * @date
      * @since 1.0.0
      * @return java.util.Map<java.lang.String,java.lang.Object>
      */
@@ -50,7 +60,6 @@ public class UserController {
     @ResponseBody
     public Result<Object> check(@Validated(UserModel.LoginGroup.class) UserModel userModel ,HttpServletRequest request ,
                                     BindingResult resultData) throws IOException {
-        Map<String,Object> result = new HashMap<>(2);
         String validation = ResponseUtil.isParameter(resultData);
         if(StringUtils.isNotBlank(validation)){
             return Result.error(new CodeMsg(500101,validation));
@@ -58,20 +67,13 @@ public class UserController {
         //1. 登录验证
         Map<String,Object> checkMap = userService.checkLogin(userModel.getPhone(), userModel.getPwd());
         Boolean loginResult = (Boolean) checkMap.get("result");
-        UserService correctUser = (UserService) checkMap.get("user");
+        UserService sysUser = (UserService) checkMap.get("user");
         //登录验证通过
         if(loginResult != null && loginResult){
             //2. session中添加用户信息
-            HttpSession session = request.getSession();
-            session.setAttribute(Constants.SESSION_USER, correctUser);
-            //3. 返回给页面的数据
-            result.put("code",200);
-            //登录成功之后的回调地址
-            String redirectUrl = (String) session.getAttribute(Constants.SESSION_LOGIN_REDIRECT_URL);
-            session.removeAttribute(Constants.SESSION_LOGIN_REDIRECT_URL);
-            if(StringUtils.isNoneBlank(redirectUrl)){
-                result.put("redirect_uri", redirectUrl);
-            }
+            String token = IdUtil.simpleUUID();
+            redis.set("app_access_token_" + token, sysUser, EXPIRE);
+            Result.success(token);
         }else{
             return Result.error(CodeMsg.LOGIN_ERROR);
         }
