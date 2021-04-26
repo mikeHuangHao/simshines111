@@ -20,7 +20,7 @@
 		<httpclient>4.5.5</httpclient>
 		<!-- Apache Commons系列公共库 -->
 		<commons-lang3>3.7</commons-lang3>
-		<commons-io>2.6</commons-io>
+		<commons-io>2.7</commons-io>
 		<commons-codec>1.11</commons-codec>
 
 		<fastjson.version>1.2.49</fastjson.version>
